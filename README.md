@@ -2,7 +2,7 @@
 <h3 align="center">Hi!这里是xinxin的GitHub啦 👋</h3>
 
 #
-<img src="https://github-readme-stats.vercel.app/api?username=XinSin-top&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=Xin-Sin&show_icons=true">
 
 - 🔭 I’m currently working on
   - <a target="_blank" href="https://github.com/XinSin-top/witsTalk/">witsTalk</a> 
