@@ -3,6 +3,7 @@
 
 #
 <img src="https://github-readme-stats.vercel.app/api?username=Xin-Sin&show_icons=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xin-Sin&layout=compact&hide=html,css,less,scss&langs_count=8&theme=tokyonight&hide_title=true">
 
 - 🔭 I’m currently working on
   - <a target="_blank" href="https://github.com/XinSin-top/witsTalk/">witsTalk</a> 
