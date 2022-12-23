@@ -14,19 +14,21 @@
 
 ### 语言和工具库
 ![Java](https://img.shields.io/badge/JAVA-red?style=for-the-badge&logo=iconjar&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tomcat](https://img.shields.io/badge/Tomcat-yellow?style=for-the-badge&logo=apachetomcat&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/Spring%20Boot-brightgreen?style=for-the-badge&logo=springboot&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![VUE](https://img.shields.io/badge/VUE-brightgreen?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=336e9d&logo=Python&logoColor=ffffff&label=)
 ![MYSQL](https://img.shields.io/badge/-MYSQL-orange?style=for-the-badge&logo=mysql&logoColor=white)
-![VUE](https://img.shields.io/badge/VUE-brightgreen?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/Spring%20Boot-brightgreen?style=for-the-badge&logo=springboot&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
-![Tomcat](https://img.shields.io/badge/Tomcat-yellow?style=for-the-badge&logo=apachetomcat&logoColor=white)
+
+
 ### 工具
 ![IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/-postman-orange?style=for-the-badge&logo=postman&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/-Google%20Chrome-yellow?style=for-the-badge&logo=Google-chrome&logoColor=white)
 ![Microsoft Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
-![Postman](https://img.shields.io/badge/-postman-orange?style=for-the-badge&logo=postman&logoColor=white)
