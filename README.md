@@ -13,7 +13,7 @@
 ## 💕 喜欢
 
 ### 语言和工具库
-![Java](https://img.shields.io/badge/JAVA-red?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/JAVA-red?style=for-the-badge&logo=iconjar&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
